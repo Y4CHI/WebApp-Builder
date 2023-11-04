@@ -9,6 +9,6 @@ npm install standard -D
 
 #Inicializacion
 
-npm install --save-dev electron
+npm run dev
 
 
