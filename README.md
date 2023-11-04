@@ -3,9 +3,9 @@ Webapp builder is programmed with electron to convert from a web page to a deskt
 
 #Dependencias
 
-npm install --save-dev electron
+<code>npm install --save-dev electron</code>
 
-npm install standard -D
+<code>npm install standard -D</code>
 
 #Inicializacion
 
