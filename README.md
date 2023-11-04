@@ -15,4 +15,4 @@ Webapp builder is programmed with electron to convert from a web page to a deskt
 <code>npm run dev</code>
 
 <p>Por defecto esta con la pagina de youtube , si desea que le cargue de otra pagina ,tendrea que modificar el archivo main.js</p>
-![image](https://github.com/Y4CHI/WebApp-Builder/assets/94443320/c9292683-63af-4978-9ed5-31d5a3aed577)
+
