@@ -15,5 +15,5 @@ Webapp builder is programmed with electron to convert from a web page to a deskt
 <code>npm run dev</code>
 
 <p>Por defecto esta con la pagina de youtube , si desea que le cargue de otra pagina ,tendrea que modificar el archivo main.js</p>
-<code>win.loadURL('https://www.youtube.com/') </code>
+<code>win.loadURL('URL') </code>
 
