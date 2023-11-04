@@ -6,3 +6,7 @@ Webapp builder is programmed with electron to convert from a web page to a deskt
 npm install --save-dev electron
 
 npm install standard -D
+#Inicializacion
+npm install --save-dev electron
+
+
