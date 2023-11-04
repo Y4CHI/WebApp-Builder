@@ -7,12 +7,13 @@ Webapp builder is programmed with electron to convert from a web page to a deskt
 <code>nvm install --lts </code><br>
 <code>nvm use 16.20.2</code><br>
 
+
 <p>Nos instalaremos electron , y standard para revisar errores de codigo</p>
 <code>npm install --save-dev electron</code><br>
 <code>npm install standard -D</code><br>
 
-#Inicializacion
 
+#Inicializacion<br>
 <code>npm run dev</code>
 
 
