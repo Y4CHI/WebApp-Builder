@@ -9,6 +9,6 @@ npm install standard -D
 
 #Inicializacion
 
-npm run dev
+<code>npm run dev</code>
 
 
